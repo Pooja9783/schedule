@@ -13,4 +13,4 @@
 <li>used mongodb for database, i got an issue with mongodb Atlas to store data</li>
 </ul>
 
-<a href="https://schedue.herokuapp.com/schedule">
+<a href="https://schedue.herokuapp.com/schedule">Deployed Link</a>
